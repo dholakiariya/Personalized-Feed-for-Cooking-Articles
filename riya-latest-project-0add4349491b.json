@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "riya-latest-project",
+  "private_key_id": "0add4349491b25d380b46984b2963b6f48dea464",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5M4D7ZFJePFrF\n6t5ZxPY7tGnsXzXYvUVgW93qhNvW2k70DTm8Y94y87U3IR4JU6kKfS5uwivl/2PF\nYZNLcARjfED/pJ8Hg/hD6mO4GoOm+N+otCu9VXj+Fade/ax856K/oFWBtVuTk7r9\nDWfTJnYg6lgzLHPfR5ZWjqSmh9zmtS9oJGWzS2oRqkcYMZbC5AOjeelcMrAMpIi/\n45BVhAwbZA28wEqSndFXSOpNoDy3/ga+hDkhmFiMyUGyzSnTatTFERJ7Q9dYHsET\niZw720Ne5dyC6s1Yxnh06d2Aqq6mVx7gP12KAcGrLDgou0zDh3Z4xYCyXJ8vRSSp\nw9skCwmBAgMBAAECggEAKG82v2wxUZLCzMhRIG9QxUtH/wvwgTAdqAKWql+0ca27\nJCyJCPkS57PuwikQWj/yPbCEBTmOhQoj2dHKa2N7Cc90j3v9HpJxDz7q46SiTr+y\ncS5ZCF7TakIHB0XCNYkLLuROFuImKsvLvPkCzIZurxQLCq0vZTXHfIFrMFKkZ5gS\nGpaGIO5a4a+xxDX5aZyxC4cihoU99u2xX08p02Bg3jlu9LX/RkcXVdwtZBpvUdN/\nuj5iwKCQk8YUX5ZL5aqvI01TYr3R/te5JL1MwP8L2u5a/Q4Eri1BF/W0OcCpgDWL\n1axFnezF+Chs+ILA9+hwVgW3OEKO+jiV+LbaCb+4uwKBgQD9/uaERurJp+FN5RjJ\n70OMBx6nRpkhjLxESm5OwMBa3KF1ATeWZ0KLk7aIV5rNuaJE6RPtinw6dZgNq03H\n9VTqmVe9iHkAKb95Da25nZuQjtEVUDd+tiEbBfNdIFc6pecdFYBzgdd8aqLumVA8\nSqt48R3NzqaQBx2G80mCJQWH8wKBgQC6qaF8xpYksWmDrmQ/Br2pzSSt5ULht/6E\n3jiKAUpW0eKcM286Aq7FG3jrKmbPKhs2dr79roGV107UMNCcHSSCOwffOvZ7h3oJ\nzAsuciHN9F7HVXaiDQC/7lqOYIruFh8C9b74vDMurukcmaFWpgKWOayYwmtLpJRt\nshkBLt4ZuwKBgQDMYVMeN25v692471MeEqBYydXZpk5MF9HaZcYTKrjdpFFrNBqF\ntPtwEuE7HrsbNXekWaTGbLv/0mYTAbfp4bh9ufxHL8yl2/INt3sGNBNco/8MVmsB\nVA6ZjxU/52kpcRviZE3jJCTAIZKPyeAtU6xc+jAQTmvq0z7oO1X4GlA0DwKBgAzi\noM8oNj0aMhpw82KWaIlMK/gFF3TVarBpVqXQKP2NR4NY2Zi7jqz0lIhHSQmL8ozz\n7YM9hJx/XGWxaPUd3eNPh9+VBmbIl1gNycfPAR5ifBhugd3139Nf9MhXSb/drw5Z\nQHGTLEVQta7PvB9rHkqYeJ2i7h0uo0BfRvKZ9aL5AoGBAIkFlQFZSzo065xaGrxV\nz4JmSGSlIQaVFDaD2QfTC7TiDf2HUdF0XBg+0PeTcdRntrOYzjeqeYs+B+7aWO1/\nMGamrIEh0AoAwv02gWpFTvAgyy+zlEvHxpo5DB3mYjEFBUC8KnTaisvarOo7V5SX\nJpW7vFTR8sxTrcvRuQJ5TvYP\n-----END PRIVATE KEY-----\n",
+  "client_email": "riyalatestcookingservice@riya-latest-project.iam.gserviceaccount.com",
+  "client_id": "109581106452577702332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/riyalatestcookingservice%40riya-latest-project.iam.gserviceaccount.com"
+}
